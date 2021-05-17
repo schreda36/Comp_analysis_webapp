@@ -1,2 +1,2 @@
 # vapp
-compensation and data analysis app in shiny
+compensation data analysis app build in R with shiny front end
